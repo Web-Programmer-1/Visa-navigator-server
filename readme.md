@@ -1,4 +1,4 @@
-# My Visa Navigator Web Application
+# My Visa Navigator Web Application *
 
 Welcome to Visa Navigator web application, a platform designed to showcase creativity, provide useful tools, and connect users with meaningful content. Explore the live site   https://visa-navigator-ae0c7.web.app/
 ## Key Features
